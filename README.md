@@ -1,2 +1,2 @@
 # pythonSolutions
-This repo contains solutions for the leet code problems whic i did
+This repo contains solutions for the leet code problems which i did
